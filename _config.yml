@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Jinsu Kim / Site Title"
+title                    : "Jinsu Kim"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,11 +26,11 @@ author:
   avatar           : "profile.jpg"
   name             : "Jinsu Kim"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Researcher at the intersection of neuroscience and AI"
+  location         : "Seoul, Korea"
+  employer         : #
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jkim.jinsukim@gmail.com" 
 
   # Academic websites
   academia         : # URL
